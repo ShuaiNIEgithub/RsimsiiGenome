@@ -9,7 +9,7 @@ Here we have uploaded the data related to genome project to ensure consistency w
 
 ## Data provided here:
 
-**Rsimsii.assembly.idmapping.txt**:  The final assembly is available at [NCBI](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/282/245/GCA_014282245.1_ASM1428224v1/GCA_014282245.1_ASM1428224v1_genomic.fna.gz). Then you can use this "idmapping" file to replace the ID of the genome assembly in FASTA format.
+**Rsimsii.assembly.idmapping.txt**:  The final assembly is available at [NCBI](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/014/282/245/GCA_014282245.1_ASM1428224v1/GCA_014282245.1_ASM1428224v1_genomic.fna.gz). Then you can use this "idmapping" file to replace the IDs of the genome assembly in FASTA format.
 
 **Rsimsii.cds.fa.tar.gz**: FASTA format of the nucleotide sequences corresponding to all CDS features annotated on the assembly, based on the genome sequence. 
 
