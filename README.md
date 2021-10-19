@@ -1,4 +1,4 @@
-# RsimsiiGenome
+# *Rhododendron simsii* Genome
 
 We published a paper in 2020 (https://www.nature.com/articles/s41467-020-18771-4) and the data have been deposited in [NCBI](https://www.ncbi.nlm.nih.gov/assembly/GCA_014282245.1/). However, the the chromosome/gene IDs of the raw files were rewritten.
 
