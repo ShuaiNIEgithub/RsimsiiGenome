@@ -22,5 +22,5 @@ Here we have uploaded the data related to genome project to ensure consistency w
 ## Citation: 
 [Yang, F. S., Nie, S., Liu, H., Shi, T. L., Tian, X. C., Zhou, S. S., Bao, Y. T., Jia, K. H., Guo, J. F., Zhao, W., An, N., Zhang, R. G., Yun, Q. Z., Wang, X. Z., Mannapperuma, C., Porth, I., El-Kassaby, Y. A., Street, N. R., Wang, X. R., Van de Peer, Y., … Mao, J. F. (2020). Chromosome-level genome assembly of a parent species of widely cultivated azaleas. Nature communications, 11(1), 5269.](https://doi.org/10.1038/s41467-020-18771-4)
 
-## Contaction:
+## Contact:
 Dr. MAO <jianfeng.mao@bjfu.edu.cn> ; Shuai <nieshuai@bjfu.edu.cn>
